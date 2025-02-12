@@ -1,0 +1,5 @@
+com/example/todoapp/TodoService.class
+com/example/todoapp/TodoRepository.class
+com/example/todoapp/TodoappApplication.class
+com/example/todoapp/TodoController.class
+com/example/todoapp/Todo.class
