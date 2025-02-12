@@ -15,7 +15,6 @@ A simple to-do app built with **Spring Boot** (Java) for the backend and **React
 - **Frontend**: React (JavaScript)
 - **Database**: SQLite
 - **Build Tool**: Maven
-- **API Documentation**: OpenAPI (Swagger) (optional)
 
 ## Prerequisites
 
@@ -41,7 +40,7 @@ Before running the project, ensure you have the following installed:
 mvn clean install
 ```
 3. Run the Spring Boot application:
-   ```bash
+```bash
 mvn spring-boot:run
 ```
 ### Frontend (React)
